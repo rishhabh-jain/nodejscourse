@@ -1,0 +1,5 @@
+# nodejscourse
+
+useful commands:
+fs.writeFileSync // to create a file
+fs.appendFileSync('writefile.txt' , 'this is appended ') // to append
